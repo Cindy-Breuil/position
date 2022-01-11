@@ -1,0 +1,83 @@
+body{
+    margin :auto;
+    width: 500px;
+    margin-top: 100px;
+}
+
+.conteneur{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px 10px rgb(200, 199, 199);
+    width: 440px;
+    height: 440px;
+    position: absolute;
+}
+
+
+
+.c_jaune{
+    background-color: yellow;
+    border: 3px solid black;
+    position: absolute;
+    bottom:30px;
+    right: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+.c_vert{
+    background-color: chartreuse;
+    border: 3px solid black;
+    position: absolute;
+    top:30px;
+    left: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+.c_bleu{
+    background-color: purple;
+    border: 3px solid black;
+    position: absolute;
+    top:30px;
+    right: 30px;
+    width: 170px;
+    height: 170px; 
+}
+.c_orange{
+    background-color: tomato;
+    border: 3px solid black;
+    position: absolute;
+    bottom:30px;
+    left: 30px;
+    width: 170px;
+    height: 170px; 
+}
+
+
+
+
+.c_clair{
+    background-color: rgb(23, 193, 223);
+    border: 3px solid black;
+    width: 420px;
+    height: 420px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+
+}
+
+button{
+    margin-top: 500px;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
